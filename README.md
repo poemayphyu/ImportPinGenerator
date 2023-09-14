@@ -9,8 +9,11 @@ _Application Requirement :_
 
 '**EBA_Pins.txt**' file will be exported under project solution path.
 
-- 16 length long Sequence Number
-- 18 length long Serial Number
-- 
+![image](https://github.com/poemayphyu/ImportPinGenerator/assets/47621410/317f519f-90ad-486b-a10d-85327706e733)
+
+
+- Sequence Number Length : 16
+- Serial Number Length : 18
+  
 ![image](https://github.com/poemayphyu/ImportPinGenerator/assets/47621410/7d490d47-9e79-4dab-9923-f4ad99425794)
 
