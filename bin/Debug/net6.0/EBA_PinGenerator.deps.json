@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EBA_PinGenerator/1.0.0": {
+        "runtime": {
+          "EBA_PinGenerator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EBA_PinGenerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

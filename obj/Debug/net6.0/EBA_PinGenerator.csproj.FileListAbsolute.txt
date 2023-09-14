@@ -1,0 +1,15 @@
+D:\Poe Lay\Prjs\EBA_PinGenerator\bin\Debug\net6.0\EBA_PinGenerator.exe
+D:\Poe Lay\Prjs\EBA_PinGenerator\bin\Debug\net6.0\EBA_PinGenerator.deps.json
+D:\Poe Lay\Prjs\EBA_PinGenerator\bin\Debug\net6.0\EBA_PinGenerator.runtimeconfig.json
+D:\Poe Lay\Prjs\EBA_PinGenerator\bin\Debug\net6.0\EBA_PinGenerator.dll
+D:\Poe Lay\Prjs\EBA_PinGenerator\bin\Debug\net6.0\EBA_PinGenerator.pdb
+D:\Poe Lay\Prjs\EBA_PinGenerator\obj\Debug\net6.0\EBA_PinGenerator.csproj.AssemblyReference.cache
+D:\Poe Lay\Prjs\EBA_PinGenerator\obj\Debug\net6.0\EBA_PinGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Poe Lay\Prjs\EBA_PinGenerator\obj\Debug\net6.0\EBA_PinGenerator.AssemblyInfoInputs.cache
+D:\Poe Lay\Prjs\EBA_PinGenerator\obj\Debug\net6.0\EBA_PinGenerator.AssemblyInfo.cs
+D:\Poe Lay\Prjs\EBA_PinGenerator\obj\Debug\net6.0\EBA_PinGenerator.csproj.CoreCompileInputs.cache
+D:\Poe Lay\Prjs\EBA_PinGenerator\obj\Debug\net6.0\EBA_PinGenerator.dll
+D:\Poe Lay\Prjs\EBA_PinGenerator\obj\Debug\net6.0\refint\EBA_PinGenerator.dll
+D:\Poe Lay\Prjs\EBA_PinGenerator\obj\Debug\net6.0\EBA_PinGenerator.pdb
+D:\Poe Lay\Prjs\EBA_PinGenerator\obj\Debug\net6.0\EBA_PinGenerator.genruntimeconfig.cache
+D:\Poe Lay\Prjs\EBA_PinGenerator\obj\Debug\net6.0\ref\EBA_PinGenerator.dll
