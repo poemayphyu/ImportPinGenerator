@@ -7,7 +7,7 @@ _Application Requirement :_
    
 ![image](https://github.com/poemayphyu/ImportPinGenerator/assets/47621410/3d781ae2-4433-4fd8-a4b0-339d88accab6)
 
-'**EBA_Pins.txt**' file will be exported under project solution path.
+'**EBA_Pins.txt**' file will be exported under same path with project solution.
 
 ![image](https://github.com/poemayphyu/ImportPinGenerator/assets/47621410/317f519f-90ad-486b-a10d-85327706e733)
 
